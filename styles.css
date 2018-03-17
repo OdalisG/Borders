@@ -1,0 +1,31 @@
+div {
+	height:100px;
+	background-color: cyan;
+	margin: 20px;
+	}
+
+
+#d1 {
+	width: 100px;
+	border-radius: 100px;
+	background-color:orange;
+	box-shadow:10px 10px 30px brown;
+	}
+	
+#d2 {
+	border-bottom: 50px ridge red;
+	border-radius: 100px;
+}
+
+#d3 {
+	border-top: 40px ridge greenyellow;
+	border-top-right-radius: 150px;
+	border-bottom: 40px ridge brown;
+	border-top-left-radius: 150px;
+	box-shadow: 10px 10px 10px black;
+}
+
+#d4 {
+	border:50px double red;
+	border-radius:150px 20px 0px 20px;
+}
